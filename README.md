@@ -1,2 +1,2 @@
 # Python_Scripting
-Home of all my python scripts that I am learning
+Home to all of the python scripting that I am learning and all of my projects I am working on.
